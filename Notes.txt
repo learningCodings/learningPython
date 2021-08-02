@@ -1,0 +1,219 @@
+I Will Learn Python Javascript
+
+SQL Migrations
+User Interdace
+
+Testing CI/CD
+
+Scalabilty And Security-> Load Balancer-> Server Server Server]
+
+
+[
+
+HTMl And CSS
+
+Design And Implimntation
+
+Git
+
+Python -> Django
+
+Javascript
+
+CI/CD
+Continouing Integration - Continuting Deliverying 
+
+Scalability And Security
+
+HTML: 
+
+Document Object Model-
+html-> head-> title
+html->body ->Hello World 
+
+Js ability to modify Webbpages Using DOM Model
+
+In HTML Single Elements Have No Closing Tag Beacause They Dose Not Contain Anything In Between It
+
+CSS
+
+attribute like declaring Class or id in CSS
+
+margin fot add outside of of element
+padding to add size inside in element
+
+id can be used for declare unique id it can accesssed by using # It mean # mean slect only pertifvular part
+
+class is used to use if we want to use nultiple time it can access by . 
+
+c
+  
+specofocity-> inline, id, class, type 
+
+CSS Selctorrs
+a, b-> Multiple ELement
+a b -> Descendant Selector
+a > b -> child selector
+a + b -> Ajacemt Sobling Selector
+[a=b] -> Attribute Selector
+a:b -> Pseudoclass Selector
+a::b -> Pseudoelelement Selector
+
+
+This Line Is Very Important To Make Webpage Responsive
+<meta name="viewpory" content="width=device-width, initial-scale=1.0">
+
+also using @media mix and max width we can make responsove;
+And Width Must Be In Accending Order
+
+using flex and flexbox we can make webpages more responsive like in div tag 
+div {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+Alrernative for Flex is Gridview We Need To Specify Some Attributes Like coloum gap, row gap and grind coloum template Too
+
+
+Boostrap Is Very Simple All I Have TO DO IS To Just Get Right Boostrap File And Class Names
+To Use Boostrap Only Need TO Use CommanSense And I Know Element I'm Using And What Is Purpose Of It
+And Which Code Should I Copy From Boostrap Or Which Class Should Give As Attribute To Element
+
+
+Sass IN CSS
+
+Sass Is Great It IS used to avoid repetaion of code redency of code
+
+It Has extenion is .scss
+
+we have to compile it to .css file using sass
+
+it uses inheritance
+in it we can declare veriables
+
+But veriables in css make more powerful to css and its easy to use than sass and no need to do anything Extra 
+
+Css veribales are good for me explore it more
+
+      
+
+/*Testing Is Git Working Out Of VS-> Its Working*/
+
+
+@keyframes for animation in css
+
+postion must be relative
+@keyframes myanim {
+}
+]
+
+#1 [
+
+Git: It Is A "Distrubted Version Control Tool" And I can perfom actions by using command line and also on github.com
+
+Some Features OF Git
+
+I can work on repository == repo, with multiple Developers
+
+I can push code on my repo 
+
+And I can also pull code from my repo using my repo url
+
+And can also access my coworkers code by cloning repo in my git account
+
+And most important I can revert my code what I changed in code
+
+Some Usefull commands with sequence of it
+
+to clone repo on local device-> $git clone https://github.com/learningCodings/learningHTML.git;
+
+If I clone git repo on my local system then it creates Folder name as repo 
+
+After cloning repo on local system do not misbehave with .git folder it will be not work properly
+.git folder stores all info related to repo like logs, comments and all other
+
+to add file-> $git add filename;
+to add multiple files at one time-> $git add .;
+
+to give comment on it-> $git commit -m "-m is used for this message";
+
+to upload or push code on git-> $git push;
+
+to remove or delete or undo last comment-> $git revert;
+
+to comment & push already added files-> $git commit -am "-am Means Add This Comment To All Files That Currently on the way to push";
+
+to get all changes in code-> $git log;
+
+to download or pull code from already cloned repo-> $git pull;
+
+to test code without changing main code by creating branch-> $git checkout -b branchName;
+and after it automatically switch to that new branch
+And Automatically new branch became HEAD (Know More About Head May Be At Line N0: 169)
+and git command impact is only on branch repo
+
+if I want to switch my repo in between it-> $git checkout repoName;
+
+after testing code and its working then if I want to add that Code In Main Branch then(in that branch)-> $git merge main; 
+
+and after adding test branch code in main branch if I want to delete it then-> $git rebase;
+
+after creating branch it is called as feature branch and main branch as master branch 
+and on which branch I'm working it is called as HEAD s
+
+to check last comment & current repo location-> $git checkout;
+
+to check is any thing remains to push or what remains to push-> $git status;
+
+/*Testing Git pull command what if I did not push and I'm directly pull code*/
+
+/* 
+Its Not Working first I've to push then pull then push
+
+Some times it get complicated for me I can manage it by accepting both changes*/
+
+It is called merge confict
+
+it shows my changes as Head vs & remote changes as conflicting commit
+
+It can be solved by accepting both changes or keeping only one change
+
+GitHub Pages Using It Can Be Published Simple Static Webpages In Free Of Cost 
+
+We Need To Just Add Extention to any repo repoName.github.io It will be considerd as github Pages And published with github account username
+
+
+]
+#2 
+[
+
+Python Is Interpretead Lanaguage
+
+It Executing Program By Reading Line By Line What It Means
+Then Python Program Execute Program
+
+I can run Python program anywere If it installed on my system by simply using keyword-> python fileName.py; In that perticular file location
+In terminal or in cmd or in powershell
+
+Python dose not need to compile first in Binary It can direclty run Python Program
+
+Python Supports Veriables But No Need To Specify What Is It Like Other Than int ot char
+if I declaare variableit automatically recognise what is it int or str
+
+a = 78-> int
+b = 7.8-> float
+c = "string"-> string
+d = True -> bool
+e = None -> NoneType 
+
+In python "+" also can used to concanate string or make addition of program
+
+And Another way to print without using + I can print it by using fromated string
+
+Formated String-> print(f"Text,{In Currly Baracket Veriable Name}")
+
+
+
+
+
+]
