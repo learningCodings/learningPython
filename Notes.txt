@@ -248,6 +248,35 @@ Python Have Built IN feature to perform operations on list Like sort, append, re
 Sets->
 Python Have Set Is Data Structre And It Is Follows All Rules Of Maths
 
-And It Have Funtions Like add, remove, len->(for length)
+And It Have Funtions Like add, remove, 
+len()->To count length of set
+
+dict->
+declaration of dict-> dictName = {"Keys" : "Pair", "key1" : "Pair1"}
+
+if I want to add extra key-pair in that-> dictName ["Key"] = "Pair"
+
+it is ued to mapping keypair vlaues And Becomes More Powerfull in webapplications  
+Loops
+
+for loop it has by default ++ increament 
+
+In Python if I want use numbers in sequence then I can use range() function
+
+
+I can create own function by using def keyword-> 
+def functionName(inputs):
+	return what function dose write here
+
+I can also access this own defined functions in aonther file also like java packages
+
+In python functions also called as modules
+
+to use my own functions-> 
+from Function-fileName import *
+from Function-fileName import Specific-FunctionName
+
+
+
 
 ]
