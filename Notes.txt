@@ -191,7 +191,7 @@ Python Is Interpretead Lanaguage
 
 It Executing Program By Reading Line By Line What It Means
 Then Python Program Execute Program
-
+git
 I can run Python program anywere If it installed on my system by simply using keyword-> python fileName.py; In that perticular file location
 In terminal or in cmd or in powershell
 
@@ -212,8 +212,42 @@ And Another way to print without using + I can print it by using fromated string
 
 Formated String-> print(f"Text,{In Currly Baracket Veriable Name}")
 
+to take input in python-> varibaleName = input("Message: ")
+This input always take input as string
+
+if I want perform any number opration then Ive To Take Input In to number-> varibaleName = int(input("Messege: "))
+
+Indented(empty space before line in if or else conditions) Is Required in python to understand python where is block started and where is ended
+
+Condition Statements always follows boolen expresion 
 
 
+Data Structre In Python
 
+list-> Sequence of mutable values
+it can have repeated data like names and its in order
+
+tuple-> sequence of immutable values
+it have alson order or repatable data
+
+set-> collection of unique value
+set have no order or sequence but it have only unique values
+it hepls to run program effienty And it can also used while performing maths operations
+
+dict-> collection of key-pairs
+dict is dictionry and it has key-pairs value must
+and it similar as our physical dictionry like words and definations 
+And here Also-> word is key And defination is pair
+
+To Add Messege While Printing Any Data Structre Use Frommated String
+
+lists->
+Python Have Built IN feature to perform operations on list Like sort, append, reverse
+
+
+Sets->
+Python Have Set Is Data Structre And It Is Follows All Rules Of Maths
+
+And It Have Funtions Like add, remove, len->(for length)
 
 ]
