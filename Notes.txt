@@ -244,6 +244,12 @@ To Add Messege While Printing Any Data Structre Use Frommated String
 lists->
 Python Have Built IN feature to perform operations on list Like sort, append, reverse
 
+If I want list from user then I've to use for loop in range of how many Items I want to in list and 
+first I've to declare empty list-> lst = []
+to take input I've to use for loop-> for i in range(0, number):
+					name = input()
+
+and to add item in list in in for loop-> lst.append(name)
 
 Sets->
 Python Have Set Is Data Structre And It Is Follows All Rules Of Maths
@@ -272,11 +278,27 @@ I can also access this own defined functions in aonther file also like java pack
 
 In python functions also called as modules
 
-to use my own functions-> 
+to use my own functions there some several Ways-> 
 from Function-fileName import *
 from Function-fileName import Specific-FunctionName
+import Function-fileName
+
+function-fileName.functionName()
 
 
+
+Python Also Support Object Oriented Programming Langauge
+
+in it I can declare class-> class ClassName:
+					def __init__(self, input, input1):
+						self.x = input
+						self.y = input1
+
+and I can Access It By->
+c = ClassName(inputValue, inputValue1)
+
+
+In Other programming Language Object Is Must But In Python I can manupilate objects by using methodsS
 
 
 ]

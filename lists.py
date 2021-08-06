@@ -1,3 +1,15 @@
+# Get Inputs To List From User
+
+lst = []
+
+num = int(input("Enter Number Of Elements: "))
+
+for i in range(0, num):
+    name = input("Enter Names: ")
+    lst.append(name)
+
+print(f"The Names Added In List Are: {lst}")
+
 # List Data Structure
 
 names = ["Tony", "Flash", "Thor", "Loki", "Chris"]
