@@ -300,5 +300,11 @@ c = ClassName(inputValue, inputValue1)
 
 In Other programming Language Object Is Must But In Python I can manupilate objects by using methodsS
 
+__init__ must be spell right on it so many class operations depends upon __init__
+
+otherwise it will throgh so many TypeError and exceptions it will not find fastly
+
+Functional Programming
+
 
 ]
