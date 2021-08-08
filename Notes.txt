@@ -307,11 +307,12 @@ otherwise it will throgh so many TypeError and exceptions it will not find fastl
 Functional Programming
 
 By Using Functional Programming I can call function and modify it throgh another function 
+It is also called as decorates
 
 @functionName by using @ I can call function before declaring I'm where I want to use it
 
 Still I'm not getting where I can Use This functional Programming
-
+This Function Can Be Used In Django Like IF User Not Login Then Don't Perform That Function
 
 Oh I can use Fucntional Programming to define dict under list dict under dict
 and like this I can use any function in any function and modify it
@@ -322,4 +323,6 @@ so I need to define own function that which key should be taken to perfotm opera
 or simply I can use lambda to perform sorting operation
 
 if I want to comapre or sort operation on dict Then key and pair valume names must be same in that dict
+
+
 ]
