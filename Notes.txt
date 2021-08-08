@@ -316,9 +316,10 @@ Still I'm not getting where I can Use This functional Programming
 Oh I can use Fucntional Programming to define dict under list dict under dict
 and like this I can use any function in any function and modify it
 
-dict cannot comapre itself so I need to define own function that which key should be taken to perfotm operation
+dict cannot comapre itself because Python dosent know which key belongs to which pair
+so I need to define own function that which key should be taken to perfotm operation
 
 or simply I can use lambda to perform sorting operation
 
-
+if I want to comapre or sort operation on dict Then key and pair valume names must be same in that dict
 ]

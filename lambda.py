@@ -6,7 +6,7 @@ people = [
     
     {"name" : "RDJ", "charcter" : "Tony"},
     {"name" : "Chris H", "charcter" : "Thor"},
-    {"name" : "Tom H", "charc": "Loki"}
+    {"name" : "Tom H", "charcter": "Loki"}
 ]
 
 print(f"\nThe List Is: {people}")
@@ -17,6 +17,6 @@ print(f"\nThe List Is: {people}")
 
 # to avoid use of this own defined code instead of it I can use lambda
 
-people.sort(key = lambda person: person["name"] )
+people.sort(key = lambda person: person["charcter"] )
 
 print(f"\n{people}")
