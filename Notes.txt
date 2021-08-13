@@ -182,7 +182,8 @@ GitHub Pages Using It Can Be Published Simple Static Webpages In Free Of Cost
 
 We Need To Just Add Extention to any repo repoName.github.io It will be considerd as github Pages And published with github account username
 
-
+To Open VS Code In Browser Just Press "." While Repo Is Opened In Any Browser(Desktop Mode Is Required)
+And I'm Opening VS Code For First Time In Thst Browser Then I Need TO Setup Terminal Also
 ]
 #2 
 [
